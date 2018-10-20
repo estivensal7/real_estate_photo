@@ -1,0 +1,13 @@
+.parallax-container {
+        width: 100%;
+        height: 100vh;
+        z-index: 1;
+        text-align: center;
+        color: aliceblue;
+}
+
+.title {
+        z-index: 2;
+        position: relative;
+        top: 200px;
+}

@@ -1,9 +1,8 @@
 import React from 'react';
-import { Jumbotron, Container } from 'reactstrap';
+import { Jumbotron, Container, Fade, Button } from 'reactstrap';
 import Chatkit from '@pusher/chatkit'
 
 //importing Components
-import ChatTitle from '../ChatTitle/ChatTitle';
 import MessageList from '../MessageList/MessageList';
 import SendMessageForm from '../SendMessageForm/SendMessageForm';
 
@@ -17,8 +16,10 @@ export default class Chat extends React.Component {
         constructor(props) {
                 super(props);
                         this.state = { 
-                                messages: []
+                                messages: [],
+                                fadeIn: false 
                         };
+                this.toggle = this.toggle.bind(this);
                 this.sendMessage = this.sendMessage.bind(this)
         }
 
@@ -55,16 +56,25 @@ export default class Chat extends React.Component {
                 })
         }
 
+        toggle() {
+                this.setState({
+                        fadeIn: !this.state.fadeIn,
+                        messages: []
+                });
+        }
+
         render() {
                 return (
                         <div>
-                                <Jumbotron fluid>
-                                        <Container fluid>
-                                                <ChatTitle />
-                                                <MessageList roomId={this.state.roomId} messages={this.state.messages}/>
-                                                <SendMessageForm sendMessage={this.sendMessage}/>
-                                        </Container>
-                                </Jumbotron>
+                                <Button color="primary" onClick={this.toggle}>Chat With Us</Button>
+                                <Fade in={this.state.fadeIn} >
+                                        <Jumbotron fluid>
+                                                <Container fluid>
+                                                        <MessageList roomId={this.state.roomId} messages={this.state.messages}/>
+                                                        <SendMessageForm sendMessage={this.sendMessage}/>
+                                                </Container>
+                                        </Jumbotron>
+                                </Fade>
                         </div>
                 );
         }
