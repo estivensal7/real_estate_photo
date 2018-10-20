@@ -7,6 +7,7 @@ import Navbar from './Components/Navbar/Navbar';
 import ParallaxHeader from './Components/ParallaxHeader/ParallaxHeader';
 import ParallaxImage from './Components/ParallaxImage/ParallaxImage';
 import About from './Components/About/About';
+import ServiceContainer from './Components/ServicesContainer/ServicesContainer';
 
 import fashionPic from './Images/fashion.jpg';
 import forestPic from './Images/forest.jpg';
@@ -19,6 +20,7 @@ class App extends Component {
 					<ParallaxHeader imageUrl={fashionPic} />
 					<About />
 					<ParallaxImage imageUrl={forestPic} />
+					<ServiceContainer />
 					<Chat />
 				</div>
 			);
