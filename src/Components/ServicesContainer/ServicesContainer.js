@@ -32,7 +32,7 @@ export default class ServicesContainer extends React.Component {
 
                 let serviceCards = this.state.services.map(service => {
                         return (
-                                <Card>
+                                <Card className="services_card_body">
                                         <CardBody>
                                                 <CardTitle>{service.card_title}</CardTitle>
                                                 <CardSubtitle>{service.card_subtitle}</CardSubtitle>

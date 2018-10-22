@@ -8,20 +8,31 @@ import ParallaxHeader from './Components/ParallaxHeader/ParallaxHeader';
 import ParallaxImage from './Components/ParallaxImage/ParallaxImage';
 import About from './Components/About/About';
 import ServiceContainer from './Components/ServicesContainer/ServicesContainer';
+import ContactContainer from './Components/ContactContainer/ContactContainer';
 
-import fashionPic from './Images/fashion.jpg';
+//importing pictures for parallax containers
 import forestPic from './Images/forest.jpg';
+import marPic from './Images/mar.jpg';
+import architectPic from './Images/architecture.jpg';
+
+//importing font-awesome icons
+import { library } from '@fortawesome/fontawesome-svg-core'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faArrowDown } from '@fortawesome/free-solid-svg-icons'
+
+library.add(faArrowDown)
 
 class App extends Component {
 		render() {
 			return (
 				<div className="App">
-					<Navbar />
-					<ParallaxHeader imageUrl={fashionPic} />
-					<About />
+					{/* <Navbar /> */}
+					<ParallaxHeader imageUrl={architectPic} />
+					<About id="about-container"/>
 					<ParallaxImage imageUrl={forestPic} />
 					<ServiceContainer />
-					<Chat />
+					<ParallaxImage imageUrl={marPic} />
+					<ContactContainer />
 				</div>
 			);
 		}

@@ -6,6 +6,9 @@ import Chatkit from '@pusher/chatkit'
 import MessageList from '../MessageList/MessageList';
 import SendMessageForm from '../SendMessageForm/SendMessageForm';
 
+//importing custom css
+import './Chat.css';
+
 //declaring variables for ChatKit API keys
 const instanceLocator = "v1:us1:22635d4e-741b-4e83-a13f-67f68a7210a7"
 const testToken = "https://us1.pusherplatform.io/services/chatkit_token_provider/v1/22635d4e-741b-4e83-a13f-67f68a7210a7/token"
@@ -65,11 +68,11 @@ export default class Chat extends React.Component {
 
         render() {
                 return (
-                        <div>
-                                <Button color="primary" onClick={this.toggle}>Chat With Us</Button>
+                        <div className="chat-js-container">
+                                <Button outline color="light" onClick={this.toggle}>Chat With Us</Button>
                                 <Fade in={this.state.fadeIn} >
-                                        <Jumbotron fluid>
-                                                <Container fluid>
+                                        <Jumbotron fluid className="chat-jumbotron">
+                                                <Container fluid className="chat-jumbotron-container">
                                                         <MessageList roomId={this.state.roomId} messages={this.state.messages}/>
                                                         <SendMessageForm sendMessage={this.sendMessage}/>
                                                 </Container>

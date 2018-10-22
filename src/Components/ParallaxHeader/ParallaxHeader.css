@@ -9,5 +9,40 @@
 .title {
         z-index: 2;
         position: relative;
+        top: 100px;
+        font-size: 60px;
+}
+
+.scroll-text {
+        position: relative;
         top: 200px;
+}
+
+.arrow-down-icon {
+        position: relative;
+        top: 200px;
+}
+
+.header-logo {
+        height: 300px;
+        width: 300px;
+        position: relative;
+        top: 125px;
+        margin-bottom: 0px;
+}
+
+.fb-logo {
+        position: relative;
+        top: 30px;
+        right: 670px;
+        height: 50px;
+        width: 50px;
+}
+
+.ig-logo {
+        position: relative;
+        top: 30px;
+        right: 660px;
+        height: 40px;
+        width: 40px;
 }

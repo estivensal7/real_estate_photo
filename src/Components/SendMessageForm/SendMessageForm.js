@@ -34,6 +34,7 @@ export default class SendMessageForm extends React.Component {
                                         value={this.state.message}
                                         placeholder="Type your message and hit ENTER"
                                         type="text" 
+                                        style={{width: "100%"}}
                                 />
                         </form>
                 )
