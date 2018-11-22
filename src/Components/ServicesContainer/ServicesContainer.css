@@ -10,3 +10,745 @@
 .services_card_body {
         background: transparent !important;
 }
+
+@media (max-width: 319px) {
+        .services-container {
+                height: 1500px;
+        }
+        
+        .service-container-header {
+                font-size: 45px !important;
+        }
+
+        .service-card-title {
+                font-size: 25px !important;
+        }
+
+        .service-card-subtitle {
+                font-size: 20px !important;
+        }
+
+        .service-card-text {
+                font-size: 15px !important;
+        }
+}
+
+@media (min-width: 320px) and (max-width: 400px) {
+        .services-container {
+                height: 1500px;
+        }
+        
+        .service-container-header {
+                font-size: 45px !important;
+        }
+
+        .service-card-title {
+                font-size: 25px !important;
+        }
+
+        .service-card-subtitle {
+                font-size: 20px !important;
+        }
+
+        .service-card-text {
+                font-size: 15px !important;
+        }
+}
+
+@media (min-width: 341px) and (max-width: 375px) {
+        .services-container {
+                height: 1500px;
+        }
+        
+        .service-container-header {
+                font-size: 45px !important;
+        }
+
+        .service-card-title {
+                font-size: 25px !important;
+        }
+
+        .service-card-subtitle {
+                font-size: 20px !important;
+        }
+
+        .service-card-text {
+                font-size: 16px !important;
+        }
+}
+
+@media (min-width: 376px) and (max-width: 400px) {
+        .services-container {
+                height: 1535px;
+        }
+        
+        .service-container-header {
+                font-size: 50px !important;
+        }
+
+        .service-card-title {
+                font-size: 25px !important;
+        }
+
+        .service-card-subtitle {
+                font-size: 20px !important;
+        }
+
+        .service-card-text {
+                font-size: 17px !important;
+        }
+}
+
+@media (min-width: 401px) and (max-width: 415px) {
+        .services-container {
+                height: 1535px;
+        }
+        
+        .service-container-header {
+                font-size: 50px !important;
+        }
+
+        .service-card-title {
+                font-size: 25px !important;
+        }
+
+        .service-card-subtitle {
+                font-size: 20px !important;
+        }
+
+        .service-card-text {
+                font-size: 18px !important;
+        }
+}
+
+@media (min-width: 416px) and (max-width: 424px) {
+        .services-container {
+                height: 1535px;
+        }
+        
+        .service-container-header {
+                font-size: 50px !important;
+        }
+
+        .service-card-title {
+                font-size: 25px !important;
+        }
+
+        .service-card-subtitle {
+                font-size: 20px !important;
+        }
+
+        .service-card-text {
+                font-size: 18.5px !important;
+        }
+}
+
+@media (min-width: 425px) and (max-width: 435px) {
+        .services-container {
+                height: 1535px;
+        }
+        
+        .service-container-header {
+                font-size: 50px !important;
+        }
+
+        .service-card-title {
+                font-size: 25px !important;
+        }
+
+        .service-card-subtitle {
+                font-size: 20px !important;
+        }
+
+        .service-card-text {
+                font-size: 19px !important;
+        }
+}
+
+@media (min-width: 436px) and (max-width: 480px) {
+        .services-container {
+                height: 1535px;
+        }
+        
+        .service-container-header {
+                font-size: 50px !important;
+        }
+
+        .service-card-title {
+                font-size: 25px !important;
+        }
+
+        .service-card-subtitle {
+                font-size: 22px !important;
+        }
+
+        .service-card-text {
+                font-size: 20px !important;
+        }
+}
+
+@media (min-width: 481px) and (max-width: 496px) {
+                .services-container {
+                        height: 1535px;
+                }
+                
+                .service-container-header {
+                        font-size: 50px !important;
+                }
+        
+                .service-card-title {
+                        font-size: 27px !important;
+                }
+        
+                .service-card-subtitle {
+                        font-size: 22px !important;
+                }
+        
+                .service-card-text {
+                        font-size: 20.5px !important;
+                }
+}
+
+@media (min-width: 496px) and (max-width: 507px) {
+        .services-container {
+                height: 1535px;
+        }
+        
+        .service-container-header {
+                font-size: 50px !important;
+        }
+
+        .service-card-title {
+                font-size: 27px !important;
+        }
+
+        .service-card-subtitle {
+                font-size: 25px !important;
+        }
+
+        .service-card-text {
+                font-size: 21px !important;
+        }
+}
+
+@media (min-width: 508px) and (max-width: 517px) {
+        .services-container {
+                height: 1535px;
+        }
+        
+        .service-container-header {
+                font-size: 50px !important;
+        }
+
+        .service-card-title {
+                font-size: 27px !important;
+        }
+
+        .service-card-subtitle {
+                font-size: 25px !important;
+        }
+
+        .service-card-text {
+                font-size: 21.5px !important;
+        }
+}
+
+@media (min-width: 518px) and (max-width: 571px) {
+        .services-container {
+                height: 1555px;
+        }
+        
+        .service-container-header {
+                font-size: 50px !important;
+        }
+
+        .service-card-title {
+                font-size: 27px !important;
+        }
+
+        .service-card-subtitle {
+                font-size: 25px !important;
+        }
+
+        .service-card-text {
+                font-size: 22px !important;
+        }
+}
+
+@media (min-width: 572px) and (max-width: 575px) {
+        .services-container {
+                height: 1535px;
+        }
+        
+        .service-container-header {
+                font-size: 50px !important;
+        }
+
+        .service-card-title {
+                font-size: 27px !important;
+        }
+
+        .service-card-subtitle {
+                font-size: 25px !important;
+        }
+
+        .service-card-text {
+                font-size: 22.5px !important;
+        }
+}
+
+@media (min-width: 576px) and (max-width: 636px) {
+        .services-container {
+                height: 1135px;
+        }
+        
+        .service-container-header {
+                font-size: 50px !important;
+        }
+
+        .service-card-title {
+                font-size: 16.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-subtitle {
+                font-size: 16.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-text {
+                font-size: 16px !important;
+        }
+}
+
+@media (min-width: 637px) and (max-width: 654px) {
+        .services-container {
+                height: 1050px;
+        }
+        
+        .service-container-header {
+                font-size: 50px !important;
+        }
+
+        .service-card-title {
+                font-size: 16.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-subtitle {
+                font-size: 16.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-text {
+                font-size: 16px !important;
+        }
+}
+
+@media (min-width: 654px) and (max-width: 669px) {
+        .services-container {
+                height: 1000px;
+        }
+        
+        .service-container-header {
+                font-size: 50px !important;
+        }
+
+        .service-card-title {
+                font-size: 16.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-subtitle {
+                font-size: 16.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-text {
+                font-size: 16px !important;
+        }
+}
+
+@media (min-width: 670px) and (max-width: 789px) {
+        .services-container {
+                height: 900px;
+        }
+        
+        .service-container-header {
+                font-size: 50px !important;
+        }
+
+        .service-card-title {
+                font-size: 16.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-subtitle {
+                font-size: 16.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-text {
+                font-size: 16px !important;
+        }
+}
+
+@media (min-width: 670px) and (max-width: 789px) {
+        .services-container {
+                height: 900px;
+        }
+        
+        .service-container-header {
+                font-size: 50px !important;
+        }
+
+        .service-card-title {
+                font-size: 16.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-subtitle {
+                font-size: 16.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-text {
+                font-size: 16px !important;
+        }
+}
+
+@media (min-width: 670px) and (max-width: 789px) {
+        .services-container {
+                height: 900px;
+        }
+        
+        .service-container-header {
+                font-size: 50px !important;
+        }
+
+        .service-card-title {
+                font-size: 16.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-subtitle {
+                font-size: 16.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-text {
+                font-size: 16px !important;
+        }
+}
+
+@media (min-width: 790px) and (max-width: 840px) {
+        .services-container {
+                height: 900px;
+        }
+        
+        .service-container-header {
+                font-size: 50px !important;
+        }
+
+        .service-card-title {
+                font-size: 23.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-subtitle {
+                font-size: 19.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-text {
+                font-size: 17px !important;
+        }
+}
+
+@media (min-width: 841px) and (max-width: 860px) {
+        .services-container {
+                height: 900px;
+        }
+        
+        .service-container-header {
+                font-size: 50px !important;
+        }
+
+        .service-card-title {
+                font-size: 23.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-subtitle {
+                font-size: 19.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-text {
+                font-size: 17px !important;
+        }
+}
+
+@media (min-width: 861px) and (max-width: 940px) {
+        .services-container {
+                height: 900px;
+        }
+        
+        .service-container-header {
+                font-size: 50px !important;
+        }
+
+        .service-card-title {
+                font-size: 23.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-subtitle {
+                font-size: 19.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-text {
+                font-size: 18.5px !important;
+        }
+}
+
+@media (min-width: 941px) and (max-width: 1030px) {
+        .services-container {
+                height: 920px;
+        }
+        
+        .service-container-header {
+                font-size: 50px !important;
+        }
+
+        .service-card-title {
+                font-size: 25.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-subtitle {
+                font-size: 22.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-text {
+                font-size: 20px !important;
+        }
+}
+
+@media (min-width: 1031px) and (max-width: 1160px) {
+        .services-container {
+                height: 920px;
+        }
+        
+        .service-container-header {
+                font-size: 50px !important;
+        }
+
+        .service-card-title {
+                font-size: 25.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-subtitle {
+                font-size: 22.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-text {
+                font-size: 20px !important;
+        }
+}
+
+@media (min-width: 1161px) and (max-width: 1250px) {
+        .services-container {
+                height: 920px;
+        }
+        
+        .service-container-header {
+                font-size: 50px !important;
+        }
+
+        .service-card-title {
+                font-size: 29.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-subtitle {
+                font-size: 25.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-text {
+                font-size: 22px !important;
+        }
+}
+
+@media (min-width: 1251px) and (max-width: 1340px) {
+        .services-container {
+                height: 750px;
+        }
+        
+        .service-container-header {
+                font-size: 50px !important;
+        }
+
+        .service-card-title {
+                font-size: 28.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-subtitle {
+                font-size: 23.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-text {
+                font-size: 20px !important;
+        }
+}
+
+@media (min-width: 1341px) and (max-width: 1458px) {
+        .services-container {
+                height: 750px;
+        }
+        
+        .service-container-header {
+                font-size: 70px !important;
+        }
+
+        .service-card-title {
+                font-size: 28.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-subtitle {
+                font-size: 23.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-text {
+                font-size: 20px !important;
+        }
+}
+
+@media (min-width: 1459px) and (max-width: 1650px) {
+        .services-container {
+                height: 750px;
+        }
+        
+        .service-container-header {
+                font-size: 70px !important;
+        }
+
+        .service-card-title {
+                font-size: 30.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-subtitle {
+                font-size: 26.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-text {
+                font-size: 22px !important;
+        }
+}
+
+@media (min-width: 1581px) and (max-width: 1644px) {
+        .services-container {
+                height: 750px;
+        }
+        
+        .service-container-header {
+                font-size: 70px !important;
+        }
+
+        .service-card-title {
+                font-size: 30.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-subtitle {
+                font-size: 26.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-text {
+                font-size: 23px !important;
+        }
+}
+
+@media (min-width: 1645px) and (max-width: 1880px) {
+        .services-container {
+                height: 750px;
+        }
+        
+        .service-container-header {
+                font-size: 70px !important;
+        }
+
+        .service-card-title {
+                font-size: 30.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-subtitle {
+                font-size: 28.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-text {
+                font-size: 24px !important;
+        }
+}
+
+@media (min-width: 1850px) and (max-width: 2000px) {
+        .services-container {
+                height: 750px;
+        }
+        
+        .service-container-header {
+                font-size: 70px !important;
+        }
+
+        .service-card-title {
+                font-size: 35.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-subtitle {
+                font-size: 30.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-text {
+                font-size: 26px !important;
+        }
+}
+
+@media (min-width: 2001px) {
+        .services-container {
+                height: 750px;
+        }
+        
+        .service-container-header {
+                font-size: 70px !important;
+        }
+
+        .service-card-title {
+                font-size: 35.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-subtitle {
+                font-size: 30.5px !important;
+                margin-bottom: 30px !important;
+        }
+
+        .service-card-text {
+                font-size: 27px !important;
+        }
+}

@@ -11,14 +11,14 @@ import ServiceContainer from './Components/ServicesContainer/ServicesContainer';
 import ContactContainer from './Components/ContactContainer/ContactContainer';
 
 //importing pictures for parallax containers
-import forestPic from './Images/forest.jpg';
+import cityPic from './Images/city.jpg';
 import marPic from './Images/mar.jpg';
 import architectPic from './Images/architecture.jpg';
 
 //importing font-awesome icons
-import { library } from '@fortawesome/fontawesome-svg-core'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faArrowDown } from '@fortawesome/free-solid-svg-icons'
+import { library } from '@fortawesome/fontawesome-svg-core';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faArrowDown } from '@fortawesome/free-solid-svg-icons';
 
 library.add(faArrowDown)
 
@@ -29,7 +29,7 @@ class App extends Component {
 					{/* <Navbar /> */}
 					<ParallaxHeader imageUrl={architectPic} />
 					<About id="about-container"/>
-					<ParallaxImage imageUrl={forestPic} />
+					<ParallaxImage imageUrl={cityPic} />
 					<ServiceContainer />
 					<ParallaxImage imageUrl={marPic} />
 					<ContactContainer />

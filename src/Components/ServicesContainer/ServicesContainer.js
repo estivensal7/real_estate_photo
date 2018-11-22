@@ -34,9 +34,9 @@ export default class ServicesContainer extends React.Component {
                         return (
                                 <Card className="services_card_body">
                                         <CardBody>
-                                                <CardTitle>{service.card_title}</CardTitle>
-                                                <CardSubtitle>{service.card_subtitle}</CardSubtitle>
-                                                <CardText>{service.card_description}</CardText>
+                                                <CardTitle className="service-card-title">{service.card_title}</CardTitle>
+                                                <CardSubtitle className="service-card-subtitle">{service.card_subtitle}</CardSubtitle>
+                                                <CardText className="service-card-text">{service.card_description}</CardText>
                                         </CardBody>
                                 </Card>
                         )
@@ -46,7 +46,7 @@ export default class ServicesContainer extends React.Component {
                         <div>
                                 <Jumbotron fluid className="services-container">
                                         <Container fluid>
-                                                <h1 className="display-3">Services</h1>
+                                                <h1 className="display-3 service-container-header">Services</h1>
                                                 <CardDeck>
                                                         { serviceCards }
                                                 </CardDeck>

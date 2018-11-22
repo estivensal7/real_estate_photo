@@ -6,3 +6,302 @@
         background: -webkit-linear-gradient(to right, #191654, #43C6AC);  /* Chrome 10-25, Safari 5.1-6 */
         background: linear-gradient(to right, #191654, #43C6AC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
+
+@media (max-width: 319px) {
+        .about-container {
+                height: 450px;
+        }
+
+        .about-title {
+                font-size: 40px !important;
+        }
+
+        .about-text {
+                font-size: 17px !important;
+        }
+}
+
+@media (min-width: 320px) and (max-width: 400px) {
+        .about-container {
+                height: 450px;
+        }
+
+        .about-title {
+                font-size: 40px !important;
+        }
+
+        .about-text {
+                font-size: 17px !important;
+        }
+}
+
+@media (min-width: 401px) and (max-width: 480px) {
+        .about-container {
+                height: 450px;
+        }
+
+        .about-title {
+                font-size: 43px !important;
+        }
+
+        .about-text {
+                font-size: 18px !important;
+        }
+}
+
+@media (min-width: 481px) and (max-width: 510px) {
+        .about-container {
+                height: 450px;
+        }
+
+        .about-title {
+                font-size: 45px !important;
+        }
+
+        .about-text {
+                font-size: 19px !important;
+        }
+}
+
+@media (min-width: 511px) and (max-width: 590px) {
+        .about-container {
+                height: 450px;
+        }
+
+        .about-title {
+                font-size: 45px !important;
+        }
+
+        .about-text {
+                font-size: 19px !important;
+        }
+}
+
+@media (min-width: 591px) and (max-width: 640px) {
+        .about-container {
+                height: 450px;
+        }
+
+        .about-title {
+                font-size: 50px !important;
+        }
+
+        .about-text {
+                font-size: 22px !important;
+        }
+}
+
+@media (min-width: 641px) and (max-width: 680px) {
+        .about-container {
+                height: 450px;
+        }
+
+        .about-title {
+                font-size: 55px !important;
+        }
+
+        .about-text {
+                font-size: 22px !important;
+        }
+}
+
+@media (min-width: 681px) and (max-width: 740px) {
+        .about-container {
+                height: 450px;
+        }
+
+        .about-title {
+                font-size: 60px !important;
+        }
+
+        .about-text {
+                font-size: 22px !important;
+        }
+}
+
+@media (min-width: 741px) and (max-width: 840px) {
+        .about-container {
+                height: 450px;
+        }
+
+        .about-title {
+                font-size: 60px !important;
+        }
+
+        .about-text {
+                font-size: 22px !important;
+        }
+}
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)  {
+        .about-container {
+                height: 450px;
+        }
+
+        .about-title {
+                font-size: 70px !important;
+        }
+
+        .about-text {
+                font-size: 22px !important;
+        }
+}
+
+@media (min-width: 841px) and (max-width: 940px) {
+        .about-container {
+                height: 450px;
+        }
+
+        .about-title {
+                font-size: 60px !important;
+        }
+
+        .about-text {
+                font-size: 22px !important;
+        }
+}
+
+@media (min-width: 941px) and (max-width: 1030px) {
+        .about-container {
+                height: 450px;
+        }
+
+        .about-title {
+                font-size: 70px !important;
+        }
+
+        .about-text {
+                font-size: 22px !important;
+        }
+}
+
+@media only screen 
+and (min-device-width : 1024px) 
+and (max-device-width : 1366px)  {
+        .about-container {
+                height: 450px;
+        }
+
+        .about-title {
+                font-size: 70px !important;
+        }
+
+        .about-text {
+                font-size: 22px !important;
+        }
+}
+
+
+@media (min-width: 1031px) and (max-width: 1160px) {
+        .about-container {
+                height: 450px;
+        }
+
+        .about-title {
+                font-size: 70px !important;
+        }
+
+        .about-text {
+                font-size: 22px !important;
+        }
+}
+
+@media (min-width: 1161px) and (max-width: 1250px) {
+        .about-container {
+                height: 450px;
+        }
+
+        .about-title {
+                font-size: 70px !important;
+        }
+
+        .about-text {
+                font-size: 22px !important;
+        }
+}
+
+@media (min-width: 1251px) and (max-width: 1340px) {
+        .about-container {
+                height: 450px;
+        }
+
+        .about-title {
+                font-size: 70px !important;
+        }
+
+        .about-text {
+                font-size: 25px !important;
+        }
+}
+
+@media (min-width: 1341px) and (max-width: 1490px) {
+        .about-container {
+                height: 450px;
+        }
+
+        .about-title {
+                font-size: 70px !important;
+        }
+
+        .about-text {
+                font-size: 25px !important;
+        }
+}
+
+@media (min-width: 1491px) and (max-width: 1650px) {
+        .about-container {
+                height: 450px;
+        }
+
+        .about-title {
+                font-size: 70px !important;
+        }
+
+        .about-text {
+                font-size: 25px !important;
+        }
+}
+
+@media (min-width: 1651px) and (max-width: 1880px) {
+        .about-container {
+                height: 450px;
+        }
+
+        .about-title {
+                font-size: 75px !important;
+        }
+
+        .about-text {
+                font-size: 28px !important;
+        }
+}
+
+@media (min-width: 1881px) and (max-width: 2000px) {
+        .about-container {
+                height: 450px;
+        }
+
+        .about-title {
+                font-size: 80px !important;
+        }
+
+        .about-text {
+                font-size: 28px !important;
+        }
+}
+
+@media (min-width: 2001px) {
+        .about-container {
+                height: 450px;
+        }
+
+        .about-title {
+                font-size: 85px !important;
+        }
+
+        .about-text {
+                font-size: 30px !important;
+        }
+}

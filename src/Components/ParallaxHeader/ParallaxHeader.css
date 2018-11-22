@@ -46,3 +46,1036 @@
         height: 40px;
         width: 40px;
 }
+
+@media (max-width: 319px) {
+        .parallax-container {
+                width: 100%;
+                height: 100vh;
+                z-index: 1;
+                text-align: center;
+                color: aliceblue;
+        }
+
+        .title {
+                z-index: 2;
+                position: relative;
+                top: 100px;
+                font-size: 30px;
+        }
+
+        .scroll-text {
+                position: relative;
+                font-size: 18px;
+                top: 145px;
+        }
+        
+        .arrow-down-icon {
+                position: relative;
+                top: 145px;
+        }
+        
+        .header-logo {
+                height: 200px;
+                width: 200px;
+                position: relative;
+                top: 100px;
+                margin-bottom: 0px;
+        }
+        
+        .fb-logo {
+                display: none;
+        }
+        
+        .ig-logo {
+                display: none;
+        }
+}
+
+@media (min-width: 320px) and (max-width: 400px) {
+        .parallax-container {
+                width: 100%;
+                height: 100vh;
+                z-index: 1;
+                text-align: center;
+                color: aliceblue;
+        }
+
+        .title {
+                z-index: 2;
+                position: relative;
+                top: 15vh;
+                font-size: 25px;
+        }
+
+        .scroll-text {
+                position: relative;
+                font-size: 15px;
+                top: 30vh;
+        }
+        
+        .arrow-down-icon {
+                position: relative;
+                top: 30vh;
+        }
+        
+        .header-logo {
+                height: 200px;
+                width: 200px;
+                position: relative;
+                top: 20vh;
+                margin-bottom: 0px;
+        }
+        
+        .fb-logo {
+                display: none;
+        }
+        
+        .ig-logo {
+                display: none;
+        }
+}
+
+@media (min-width: 401px) and (max-width: 480px) {
+        .parallax-container {
+                width: 100%;
+                height: 100vh;
+                z-index: 1;
+                text-align: center;
+                color: aliceblue;
+        }
+
+        .title {
+                z-index: 2;
+                position: relative;
+                top: 100px;
+                font-size: 30px;
+        }
+
+        .scroll-text {
+                position: relative;
+                font-size: 18px;
+                top: 270px;
+        }
+        
+        .arrow-down-icon {
+                position: relative;
+                top: 270px;
+        }
+        
+        .header-logo {
+                height: 200px;
+                width: 200px;
+                position: relative;
+                top: 100px;
+                margin-bottom: 0px;
+        }
+        
+        .fb-logo {
+                display: none;
+        }
+        
+        .ig-logo {
+                display: none;
+        }
+}
+
+@media (min-width: 481px) and (max-width: 510px) {
+        .parallax-container {
+                width: 100%;
+                height: 100vh;
+                z-index: 1;
+                text-align: center;
+                color: aliceblue;
+        }
+
+        .title {
+                z-index: 2;
+                position: relative;
+                top: 100px;
+                font-size: 37px;
+        }
+
+        .scroll-text {
+                position: relative;
+                font-size: 20px;
+                top: 150px;
+        }
+        
+        .arrow-down-icon {
+                position: relative;
+                top: 150px;
+        }
+        
+        .header-logo {
+                height: 200px;
+                width: 200px;
+                position: relative;
+                top: 100px;
+                margin-bottom: 0px;
+        }
+        
+        .fb-logo {
+                display: none;
+        }
+        
+        .ig-logo {
+                display: none;
+        }
+}
+
+@media (min-width: 511px) and (max-width: 590px) {
+        .parallax-container {
+                width: 100%;
+                height: 100vh;
+                z-index: 1;
+                text-align: center;
+                color: aliceblue;
+        }
+
+        .title {
+                z-index: 2;
+                position: relative;
+                top: 100px;
+                font-size: 45px;
+        }
+
+        .scroll-text {
+                position: relative;
+                font-size: 25px;
+                top: 150px;
+        }
+        
+        .arrow-down-icon {
+                position: relative;
+                top: 150px;
+        }
+        
+        .header-logo {
+                height: 200px;
+                width: 200px;
+                position: relative;
+                top: 100px;
+                margin-bottom: 0px;
+        }
+        
+        .fb-logo {
+                display: none;
+        }
+        
+        .ig-logo {
+                display: none;
+        }
+}
+
+@media (min-width: 591px) and (max-width: 640px) {
+        .parallax-container {
+                width: 100%;
+                height: 100vh;
+                z-index: 1;
+                text-align: center;
+                color: aliceblue;
+        }
+
+        .title {
+                z-index: 2;
+                position: relative;
+                top: 100px;
+                font-size: 45px;
+        }
+
+        .scroll-text {
+                position: relative;
+                font-size: 25px;
+                top: 150px;
+        }
+        
+        .arrow-down-icon {
+                position: relative;
+                top: 150px;
+        }
+        
+        .header-logo {
+                height: 220px;
+                width: 220px;
+                position: relative;
+                top: 100px;
+                margin-bottom: 0px;
+        }
+        
+        .fb-logo {
+                display: none;
+        }
+        
+        .ig-logo {
+                display: none;
+        }
+}
+
+@media (min-width: 641px) and (max-width: 680px) {
+        .parallax-container {
+                width: 100%;
+                height: 100vh;
+                z-index: 1;
+                text-align: center;
+                color: aliceblue;
+        }
+
+        .title {        
+                z-index: 2;
+                position: relative;
+                top: 100px;
+                font-size: 45px;
+        }
+
+        .scroll-text {
+                position: relative;
+                font-size: 25px;
+                top: 150px;
+        }
+        
+        .arrow-down-icon {
+                position: relative;
+                top: 150px;
+        }
+        
+        .header-logo {
+                height: 220px;
+                width: 220px;
+                position: relative;
+                top: 100px;
+                margin-bottom: 0px;
+        }
+        
+        .fb-logo {
+                display: none;
+        }
+        
+        .ig-logo {
+                display: none;
+        }
+}
+
+@media (min-width: 681px) and (max-width: 740px) {
+        .parallax-container {
+                width: 100%;
+                height: 100vh;
+                z-index: 1;
+                text-align: center;
+                color: aliceblue;
+        }
+
+        .title {        
+                z-index: 2;
+                position: relative;
+                top: 100px;
+                font-size: 40px;
+        }
+
+        .scroll-text {
+                position: relative;
+                font-size: 25px;
+                top: 175px;
+        }
+        
+        .arrow-down-icon {
+                position: relative;
+                top: 175px;
+        }
+        
+        .header-logo {
+                height: 220px;
+                width: 220px;
+                position: relative;
+                top: 125px;
+                margin-bottom: 0px;
+        }
+        
+        .fb-logo {
+                display: none;
+        }
+        
+        .ig-logo {
+                display: none;
+        }
+}
+
+@media (min-width: 741px) and (max-width: 840px) {
+        .parallax-container {
+                width: 100%;
+                height: 100vh;
+                z-index: 1;
+                text-align: center;
+                color: aliceblue;
+        }
+
+        .title {        
+                z-index: 2;
+                position: relative;
+                top: 100px;
+                font-size: 40px;
+        }
+
+        .scroll-text {
+                position: relative;
+                font-size: 28px;
+                top: 130px;
+        }
+        
+        .arrow-down-icon {
+                position: relative;
+                top: 130px;
+        }
+        
+        .header-logo {
+                height: 250px;
+                width: 250px;
+                position: relative;
+                top: 100px;
+                margin-bottom: 0px;
+        }
+        
+        .fb-logo {
+                position: relative;
+                top: 30px;
+                right: 300px;
+                height: 50px;
+                width: 50px;
+        }
+        
+        .ig-logo {
+                position: relative;
+                top: 30px;
+                right: 300px;
+                height: 40px;
+                width: 40px;
+        }
+}
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)  {
+        .parallax-container {
+                width: 100%;
+                height: 100vh;
+                z-index: 1;
+                text-align: center;
+                color: aliceblue;
+        }
+
+        .title {        
+                z-index: 2;
+                position: relative;
+                top: 100px;
+                font-size: 40px;
+        }
+
+        .scroll-text {
+                position: relative;
+                font-size: 28px;
+                top: 380px;
+        }
+        
+        .arrow-down-icon {
+                position: relative;
+                top: 380px;
+        }
+        
+        .header-logo {
+                height: 250px;
+                width: 250px;
+                position: relative;
+                top: 250px;
+                margin-bottom: 0px;
+        }
+        
+        .fb-logo {
+                position: relative;
+                top: 30px;
+                right: 300px;
+                height: 50px;
+                width: 50px;
+        }
+        
+        .ig-logo {
+                position: relative;
+                top: 30px;
+                right: 300px;
+                height: 40px;
+                width: 40px;
+        }
+}
+
+@media (min-width: 841px) and (max-width: 940px) {
+        .parallax-container {
+                width: 100%;
+                height: 100vh;
+                z-index: 1;
+                text-align: center;
+                color: aliceblue;
+        }
+
+        .title {        
+                z-index: 2;
+                position: relative;
+                top: 100px;
+                font-size: 40px;
+        }
+
+        .scroll-text {
+                position: relative;
+                font-size: 28px;
+                top: 130px;
+        }
+        
+        .arrow-down-icon {
+                position: relative;
+                top: 130px;
+        }
+        
+        .header-logo {
+                height: 250px;
+                width: 250px;
+                position: relative;
+                top: 100px;
+                margin-bottom: 0px;
+        }
+        
+        .fb-logo {
+                position: relative;
+                top: 30px;
+                right: 300px;
+                height: 50px;
+                width: 50px;
+        }
+        
+        .ig-logo {
+                position: relative;
+                top: 30px;
+                right: 300px;
+                height: 40px;
+                width: 40px;
+        }
+}
+
+@media (min-width: 941px) and (max-width: 1030px) {
+        .parallax-container {
+                width: 100%;
+                height: 100vh;
+                z-index: 1;
+                text-align: center;
+                color: aliceblue;
+        }
+
+        .title {        
+                z-index: 2;
+                position: relative;
+                top: 100px;
+                font-size: 40px;
+        }
+
+        .scroll-text {
+                position: relative;
+                font-size: 28px;
+                top: 130px;
+        }
+        
+        .arrow-down-icon {
+                position: relative;
+                top: 130px;
+        }
+        
+        .header-logo {
+                height: 250px;
+                width: 250px;
+                position: relative;
+                top: 100px;
+                margin-bottom: 0px;
+        }
+        
+        .fb-logo {
+                position: relative;
+                top: 30px;
+                right: 300px;
+                height: 50px;
+                width: 50px;
+        }
+        
+        .ig-logo {
+                position: relative;
+                top: 30px;
+                right: 300px;
+                height: 40px;
+                width: 40px;
+        }
+}
+
+@media only screen 
+and (min-device-width : 1024px) 
+and (max-device-width : 1366px)  {
+        .parallax-container {
+                width: 100%;
+                height: 100vh;
+                z-index: 1;
+                text-align: center;
+                color: aliceblue;
+        }
+
+        .title {        
+                z-index: 2;
+                position: relative;
+                top: 100px;
+                font-size: 52px;
+        }
+
+        .scroll-text {
+                position: relative;
+                font-size: 34px;
+                top: 450px;
+        }
+        
+        .arrow-down-icon {
+                position: relative;
+                top: 450px;
+        }
+        
+        .header-logo {
+                height: 450px;
+                width: 450px;
+                position: relative;
+                top: 250px;
+                margin-bottom: 0px;
+        }
+        
+        .fb-logo {
+                position: relative;
+                top: 30px;
+                right: 400px;
+                height: 50px;
+                width: 50px;
+        }
+        
+        .ig-logo {
+                position: relative;
+                top: 30px;
+                right: 400px;
+                height: 40px;
+                width: 40px;
+        }
+}
+
+
+@media (min-width: 1031px) and (max-width: 1160px) {
+        .parallax-container {
+                width: 100%;
+                height: 100vh;
+                z-index: 1;
+                text-align: center;
+                color: aliceblue;
+        }
+
+        .title {        
+                z-index: 2;
+                position: relative;
+                top: 100px;
+                font-size: 50px;
+        }
+
+        .scroll-text {
+                position: relative;
+                font-size: 28px;
+                top: 130px;
+        }
+        
+        .arrow-down-icon {
+                position: relative;
+                top: 130px;
+        }
+        
+        .header-logo {
+                height: 250px;
+                width: 250px;
+                position: relative;
+                top: 100px;
+                margin-bottom: 0px;
+        }
+        
+        .fb-logo {
+                position: relative;
+                top: 30px;
+                right: 380px;
+                height: 50px;
+                width: 50px;
+        }
+        
+        .ig-logo {
+                position: relative;
+                top: 30px;
+                right: 380px;
+                height: 40px;
+                width: 40px;
+        }
+}
+
+@media (min-width: 1161px) and (max-width: 1250px) {
+        .parallax-container {
+                width: 100%;
+                height: 100vh;
+                z-index: 1;
+                text-align: center;
+                color: aliceblue;
+        }
+
+        .title {        
+                z-index: 2;
+                position: relative;
+                top: 100px;
+                font-size: 50px;
+        }
+
+        .scroll-text {
+                position: relative;
+                font-size: 28px;
+                top: 220px;
+        }
+        
+        .arrow-down-icon {
+                position: relative;
+                top: 220px;
+        }
+        
+        .header-logo {
+                height: 250px;
+                width: 250px;
+                position: relative;
+                top: 150px;
+                margin-bottom: 0px;
+        }
+        
+        .fb-logo {
+                position: relative;
+                top: 30px;
+                right: 380px;
+                height: 50px;
+                width: 50px;
+        }
+        
+        .ig-logo {
+                position: relative;
+                top: 30px;
+                right: 380px;
+                height: 40px;
+                width: 40px;
+        }
+}
+
+@media (min-width: 1251px) and (max-width: 1340px) {
+        .parallax-container {
+                width: 100%;
+                height: 100vh;
+                z-index: 1;
+                text-align: center;
+                color: aliceblue;
+        }
+
+        .title {        
+                z-index: 2;
+                position: relative;
+                top: 100px;
+                font-size: 55px;
+        }
+
+        .scroll-text {
+                position: relative;
+                font-size: 28px;
+                top: 200px;
+        }
+        
+        .arrow-down-icon {
+                position: relative;
+                top: 200px;
+        }
+        
+        .header-logo {
+                height: 350px;
+                width: 350px;
+                position: relative;
+                top: 150px;
+                margin-bottom: 0px;
+        }
+        
+        .fb-logo {
+                position: relative;
+                top: 30px;
+                right: 430px;
+                height: 50px;
+                width: 50px;
+        }
+        
+        .ig-logo {
+                position: relative;
+                top: 30px;
+                right: 430px;
+                height: 40px;
+                width: 40px;
+        }
+}
+
+@media (min-width: 1341px) and (max-width: 1490px) {
+        .parallax-container {
+                width: 100%;
+                height: 100vh;
+                z-index: 1;
+                text-align: center;
+                color: aliceblue;
+        }
+
+        .title {        
+                z-index: 2;
+                position: relative;
+                top: 100px;
+                font-size: 55px;
+        }
+
+        .scroll-text {
+                position: relative;
+                font-size: 28px;
+                top: 200px;
+        }
+        
+        .arrow-down-icon {
+                position: relative;
+                top: 200px;
+        }
+        
+        .header-logo {
+                height: 350px;
+                width: 350px;
+                position: relative;
+                top: 150px;
+                margin-bottom: 0px;
+        }
+        
+        .fb-logo {
+                position: relative;
+                top: 30px;
+                right: 550px;
+                height: 50px;
+                width: 50px;
+        }
+        
+        .ig-logo {
+                position: relative;
+                top: 30px;
+                right: 550px;
+                height: 40px;
+                width: 40px;
+        }
+}
+
+@media (min-width: 1491px) and (max-width: 1650px) {
+        .parallax-container {
+                width: 100%;
+                height: 100vh;
+                z-index: 1;
+                text-align: center;
+                color: aliceblue;
+        }
+
+        .title {        
+                z-index: 2;
+                position: relative;
+                top: 100px;
+                font-size: 55px;
+        }
+
+        .scroll-text {
+                position: relative;
+                font-size: 28px;
+                top: 200px;
+        }
+        
+        .arrow-down-icon {
+                position: relative;
+                top: 200px;
+        }
+        
+        .header-logo {
+                height: 350px;
+                width: 350px;
+                position: relative;
+                top: 150px;
+                margin-bottom: 0px;
+        }
+        
+        .fb-logo {
+                position: relative;
+                top: 30px;
+                right: 600px;
+                height: 50px;
+                width: 50px;
+        }
+        
+        .ig-logo {
+                position: relative;
+                top: 30px;
+                right: 600px;
+                height: 40px;
+                width: 40px;
+        }
+}
+
+@media (min-width: 1651px) and (max-width: 1880px) {
+        .parallax-container {
+                width: 100%;
+                height: 100vh;
+                z-index: 1;
+                text-align: center;
+                color: aliceblue;
+        }
+
+        .title {        
+                z-index: 2;
+                position: relative;
+                top: 100px;
+                font-size: 55px;
+        }
+
+        .scroll-text {
+                position: relative;
+                font-size: 28px;
+                top: 200px;
+        }
+        
+        .arrow-down-icon {
+                position: relative;
+                top: 200px;
+        }
+        
+        .header-logo {
+                height: 350px;
+                width: 350px;
+                position: relative;
+                top: 150px;
+                margin-bottom: 0px;
+        }
+        
+        .fb-logo {
+                position: relative;
+                top: 30px;
+                right: 600px;
+                height: 50px;
+                width: 50px;
+        }
+        
+        .ig-logo {
+                position: relative;
+                top: 30px;
+                right: 600px;
+                height: 40px;
+                width: 40px;
+        }
+}
+
+@media (min-width: 1881px) and (max-width: 2000px) {
+        .parallax-container {
+                width: 100%;
+                height: 100vh;
+                z-index: 1;
+                text-align: center;
+                color: aliceblue;
+        }
+
+        .title {        
+                z-index: 2;
+                position: relative;
+                top: 100px;
+                font-size: 75px;
+        }
+
+        .scroll-text {
+                position: relative;
+                font-size: 38px;
+                top: 200px;
+        }
+        
+        .arrow-down-icon {
+                position: relative;
+                top: 200px;
+        }
+        
+        .header-logo {
+                height: 350px;
+                width: 350px;
+                position: relative;
+                top: 150px;
+                margin-bottom: 0px;
+        }
+        
+        .fb-logo {
+                position: relative;
+                top: 30px;
+                right: 800px;
+                height: 50px;
+                width: 50px;
+        }
+        
+        .ig-logo {
+                position: relative;
+                top: 30px;
+                right: 800px;
+                height: 40px;
+                width: 40px;
+        }
+}
+
+@media (min-width: 2001px) {
+        .parallax-container {
+                width: 100%;
+                height: 100vh;
+                z-index: 1;
+                text-align: center;
+                color: aliceblue;
+        }
+
+        .title {        
+                z-index: 2;
+                position: relative;
+                top: 100px;
+                font-size: 75px;
+        }
+
+        .scroll-text {
+                position: relative;
+                font-size: 38px;
+                top: 200px;
+        }
+        
+        .arrow-down-icon {
+                position: relative;
+                top: 200px;
+        }
+        
+        .header-logo {
+                height: 350px;
+                width: 350px;
+                position: relative;
+                top: 150px;
+                margin-bottom: 0px;
+        }
+        
+        .fb-logo {
+                position: relative;
+                top: 30px;
+                right: 800px;
+                height: 50px;
+                width: 50px;
+        }
+        
+        .ig-logo {
+                position: relative;
+                top: 30px;
+                right: 800px;
+                height: 40px;
+                width: 40px;
+        }
+}

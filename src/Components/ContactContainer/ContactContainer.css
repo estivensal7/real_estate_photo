@@ -14,3 +14,142 @@
         background: -webkit-linear-gradient(to right, #191654, #43C6AC);  /* Chrome 10-25, Safari 5.1-6 */
         background: linear-gradient(to right, #191654, #43C6AC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
+
+.contact-h1 {
+        color: aliceblue;
+        font-size: 65px;
+}
+
+.contact-p {
+        color: aliceblue;
+        font-size: 22px;
+}
+
+.contact-fb-logo {
+        height: 50px;
+        width: 50px;
+}
+
+.contact-ig-logo {
+        height: 40px;
+        width: 40px;
+}
+
+@media (max-width: 319px) {
+        .contact-container {
+                height: 550px;
+        }
+
+        .contact-h1 {
+                font-size: 50px;
+        }
+
+        .contact-p {
+                color: aliceblue;
+                font-size: 22px;
+        }
+}
+
+@media (min-width: 320px) and (max-width: 400px) {
+        .contact-container {
+                height: 550px;
+        }
+
+        .contact-h1 {
+                font-size: 50px;
+        }
+
+        .contact-p {
+                font-size: 22px;
+        }
+}
+
+@media (min-width: 401px) and (max-width: 480px) {
+        .contact-container {
+                height: 550px;
+        }
+
+        .contact-h1 {
+                font-size: 50px;
+        }
+
+        .contact-p {
+                font-size: 22px;
+        }
+}
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)  {
+        
+}
+
+@media (min-width: 1341px) and (max-width: 1490px) {
+        .contact-p {
+                font-size: 25px;
+        }
+
+        #contact-label {
+                font-size: 22px;
+        }
+
+        .contact-container {
+                height: 630px;
+        }
+}
+
+@media (min-width: 1491px) and (max-width: 1650px) {
+        .contact-p {
+                font-size: 25px;
+        }
+
+        #contact-label {
+                font-size: 22px;
+        }
+
+        .contact-container {
+                height: 630px;
+        }
+}
+
+@media (min-width: 1651px) and (max-width: 1880px) {
+        .contact-p {
+                font-size: 25px;
+        }
+
+        #contact-label {
+                font-size: 22px;
+        }
+
+        .contact-container {
+                height: 630px;
+        }
+}
+
+@media (min-width: 1881px) and (max-width: 2000px) {
+        .contact-p {
+                font-size: 30px;
+        }
+
+        #contact-label {
+                font-size: 25px;
+        }
+
+        .contact-container {
+                height: 630px;
+        }
+}
+
+@media (min-width: 2001px) {
+        .contact-p {
+                font-size: 30px;
+        }
+
+        #contact-label {
+                font-size: 25px;
+        }
+
+        .contact-container {
+                height: 630px;
+        }
+}
