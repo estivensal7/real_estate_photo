@@ -9,10 +9,10 @@ function ParallaxHeader(props) {
                 <div 
                         className='parallax-container'
                         style={{
-                                'background': `url(${props.imageUrl})`,
-                                'backgroundSize': 'cover',
-                                'backgroundAttachment': 'fixed',
-                                'margin': 'auto'
+                                // 'background': `url(${props.imageUrl})`,
+                                // 'backgroundSize': 'cover',
+                                // 'backgroundAttachment': 'fixed',
+                                // 'margin': 'auto'
                         }}
                 >
                 <img src="https://s3-us-west-1.amazonaws.com/planoprofilewebsite/wp-content/uploads/2018/06/26122526/facebook.png" className="fb-logo" alt="fb-logo"/>

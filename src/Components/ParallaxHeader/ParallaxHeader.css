@@ -4,6 +4,10 @@
         z-index: 1;
         text-align: center;
         color: aliceblue;
+        background: url("../../Images/architecture.jpg");
+        background-size: cover;
+        background-attachment: fixed;
+        margin: auto;
 }
 
 .title {
