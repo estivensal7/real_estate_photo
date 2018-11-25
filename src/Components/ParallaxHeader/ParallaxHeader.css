@@ -58,6 +58,8 @@
                 z-index: 1;
                 text-align: center;
                 color: aliceblue;
+                background-size: cover;
+                background-attachment: inherit;
         }
 
         .title {
@@ -102,6 +104,8 @@
                 z-index: 1;
                 text-align: center;
                 color: aliceblue;
+                background-size: cover;
+                background-attachment: inherit;
         }
 
         .title {
@@ -146,6 +150,8 @@
                 z-index: 1;
                 text-align: center;
                 color: aliceblue;
+                background-size: cover;
+                background-attachment: inherit;
         }
 
         .title {

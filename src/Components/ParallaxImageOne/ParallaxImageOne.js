@@ -2,19 +2,13 @@ import React from 'react';
 
 import './ParallaxImageOne.css';
 
-function ParallaxImage() {
+function ParallaxImageOne() {
         return (
                 <div 
                         className='parallax-image-one-container'
-                        style={{
-                                // 'background': `url(${props.imageUrl})`,
-                                // 'backgroundSize': 'cover',
-                                // 'backgroundAttachment': 'fixed',
-                                // 'margin': 'auto'
-                        }}
                 >
                 </div>
         )
 }
 
-export default ParallaxImage;
+export default ParallaxImageOne;
